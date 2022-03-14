@@ -1,4 +1,4 @@
-#pathfinder
+# pathfinder
 
 Solves any traditional 2D maze drawn to standard. Provide a start and end point encoded by rgb(255, 0, 0) and rgb(0, 0, 255), respectively, and all lines encoded in black (rgb(0, 0, 0)).
 Specify the input file during runtime, and the solution line will be printed as a copy of the file under "output.png". 
